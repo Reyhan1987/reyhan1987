@@ -60,7 +60,7 @@ Bu uygulama ile sıcaklık birimi celciustan fahrenheita çevirilebilir.
 
 İstenilen uzunlukta rastsal şifre oluşturulabilir.
 
-<img width="895" height="266" alt="image" src="https://github.com/user-attachments/assets/1246d3bb-1820-4d2d-a645-6fbb4a09e77d" />
+<img width="777" height="338" alt="image" src="https://github.com/user-attachments/assets/f9661abc-a239-4f2f-b2e8-89990bd14154" />
 
 Girilen tarihte takvim görüntülenmektedir.
 
