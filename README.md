@@ -34,6 +34,40 @@ Emeklilik hesaplama uygulmasında 2 adet alt modül bulunmaktadır.
 
 Diğer uygulamalar da aşağıdadır.
 
+<img width="827" height="875" alt="image" src="https://github.com/user-attachments/assets/2b9ef70e-b360-44d6-8866-717ef9815921" />
+
+Doğum tarihlerini girerek burcunuzu öğrenebilirsiniz.
+
+<img width="827" height="875" alt="image" src="https://github.com/user-attachments/assets/e8ade610-6461-4755-9eb8-fe3d952942d3" />
+
+İngilizce seviyenizi test edin.
+
+<img width="802" height="892" alt="image" src="https://github.com/user-attachments/assets/93adf509-7f20-43f9-a8d1-7a0bd5726ec7" />
+
+Hesap makinesi uygulaması ile 4 işlem yapabilirsiniz.
+
+<img width="707" height="527" alt="image" src="https://github.com/user-attachments/assets/6efac090-7a04-4a95-8e1d-9e3558eae24a" />
+
+Sağlıklı vücut kitle indeksiniz ile kilo durumuzunu kontrol edin.
+
+<img width="617" height="393" alt="image" src="https://github.com/user-attachments/assets/a6e1902a-a143-4363-b56f-d18ba9add874" />
+
+Not ortalaması hesaplayarak dersi geçip geçemediğinizi görebilirsiniz.
+
+<img width="895" height="266" alt="image" src="https://github.com/user-attachments/assets/6f990737-31f9-4857-ae24-22e0deed830d" />
+
+Bu uygulama ile sıcaklık birimi celciustan fahrenheita çevirilebilir.
+
+<img width="895" height="266" alt="image" src="https://github.com/user-attachments/assets/1246d3bb-1820-4d2d-a645-6fbb4a09e77d" />
+
+İstenilen uzunlukta rastsal şifre oluşturulabilir.
+
+<img width="707" height="187" alt="image" src="https://github.com/user-attachments/assets/ccdc8ec8-88d3-4e78-a0b6-0b1dde04b82f" />
+
+Girilen tarihte takvim görüntülenmektedir.
+
+
+
 
 
 
