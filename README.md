@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 #Temel Konular Proje Uygulaması
 ## Ana Menü
+<img width="932" height="891" alt="image" src="https://github.com/user-attachments/assets/23019eeb-66c9-49a7-a981-3b064961db6c" />
 
 
 
