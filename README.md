@@ -32,6 +32,8 @@ Emeklilik hesaplama uygulmasında 2 adet alt modül bulunmaktadır.
 
 <img width="848" height="922" alt="image" src="https://github.com/user-attachments/assets/b4f13791-e4c8-4231-941b-63937b5cd91a" />
 
+<img width="861" height="881" alt="image" src="https://github.com/user-attachments/assets/6cb12e5a-5cb8-4e2a-b5c4-6e44d52eab7e" />
+
 Diğer uygulamalar da aşağıdadır:
 
 Doğum tarihlerini girerek burcunuzu öğrenebilirsiniz.
