@@ -1,4 +1,7 @@
 # Python Student
+
+![Python-Logo](https://github.com/user-attachments/assets/5e9e90a2-4c38-4bb0-aada-d475cae70fa1)
+
 ## Projects
 
 
