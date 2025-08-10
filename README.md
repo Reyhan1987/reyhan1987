@@ -1,7 +1,8 @@
 # Python Student
 ## Projects
 
-<img width="290" height="290" alt="image" src="https://github.com/user-attachments/assets/7cb09766-55fc-49b4-ac80-e4cda31b145d" />
+<img width="601" height="203" alt="image" src="https://github.com/user-attachments/assets/e731fa07-7728-44b8-8be9-31cef23ce7e4" />
+
 
 **Reyhan1987/reyhan1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
