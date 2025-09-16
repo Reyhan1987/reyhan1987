@@ -1,0 +1,2 @@
+
+print('Ankara '*6)
